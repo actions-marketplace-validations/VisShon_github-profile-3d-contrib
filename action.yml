@@ -1,6 +1,6 @@
-name: GitHub-Profile-3D-Contrib
+name: GitHub-Asset-Generator
 description: Generate profile 3D Contributions
-author: yoshi389111
+author: VisShon
 
 runs:
   using: 'node16'
